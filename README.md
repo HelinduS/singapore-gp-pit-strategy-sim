@@ -1,4 +1,6 @@
-# When Does a Two-Stop Beat a One-Stop at the Singapore Grand Prix?
+# Singapore GP Pit Strategy Sim
+
+**When Does a Two-Stop Beat a One-Stop at the Singapore Grand Prix?**
 
 A stochastic Monte Carlo and discrete-time Markov chain (DTMC) race-strategy simulator quantifying the break-even pit-stop time loss at Marina Bay Street Circuit.
 

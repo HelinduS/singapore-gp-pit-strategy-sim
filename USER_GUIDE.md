@@ -1,4 +1,4 @@
-# User Guide
+# Singapore GP Pit Strategy Sim — User Guide
 
 ## Running the Notebook Locally
 1. Install dependencies from `requirements.txt`.

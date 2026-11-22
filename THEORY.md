@@ -1,4 +1,4 @@
-# Theory, Equations, and Numerical Verification
+# Singapore GP Pit Strategy Sim — Theory, Equations, and Numerical Verification
 
 ## 1. Lap-Time and Tyre Degradation Model
 For race lap $t \in \{1, \dots, 62\}$ on compound $c \in \{\text{SOFT}, \text{MEDIUM}, \text{HARD}\}$ with tyre age $a_t \ge 1$:
