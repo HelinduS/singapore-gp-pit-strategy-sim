@@ -1,6 +1,8 @@
 # Singapore GP Pit Strategy Sim — User Guide
 
-## 1. Running the Notebook Locally
+## 1. Running the Notebook (Colab or Locally)
+- **Google Colab (zero setup):** Open directly in [Google Colab](https://colab.research.google.com/github/HelinduS/singapore-gp-pit-strategy-sim/blob/main/notebook/singapore-gp-pit-strategy-sim.ipynb) and click **Runtime -> Run all**.
+- **Locally:**
 1. Create a virtual environment and install dependencies:
    ```bash
    python -m venv .venv
